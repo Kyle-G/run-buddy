@@ -84,8 +84,18 @@ section {
     position: relative;
 }
 
+.hero-cta {
+    display: inline-block;
+    margin: 0 auto;
+}
 
-/* Hero Style End */
+.hero .hero-cta h1 {
+    color: #fce138;
+}
+
+.hero .hero-cta p {
+    color: white;
+}
 
 .hero-form {
     border: 3px solid #024e76;
@@ -128,6 +138,9 @@ section {
     padding: 10px 20px;
     font-size: 16px;
 }
+
+
+/* Hero Style End */
 
 
 /** What we do and what you do section */

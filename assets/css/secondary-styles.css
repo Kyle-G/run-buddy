@@ -5,6 +5,19 @@
     margin-bottom: 40px;
 }
 
+.page-title {
+    color: #fce138;
+    display: inline-block;
+    border-bottom: 4px solid #fce138;
+    border-top: 0px;
+    border-right: 80px;
+    border-left: 80px;
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
+    padding: 0px 80px 15px 80px;
+}
+
 .secondary-content {
     width: 80%;
     margin: 0 auto;
